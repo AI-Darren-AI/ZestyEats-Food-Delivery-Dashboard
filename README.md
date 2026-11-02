@@ -1,0 +1,3 @@
+Cleaned and modelled 24.5K orders, 23.9K deliveries, 280+ restaurants and 3.8K customers across 5 related tables; built a 3-page Power BI report (Performance, Charts, KPIs) with DAX measures for total sales, average order value (914) and on-time delivery %.
+Found that orders above 1,000 were 41% of orders but 62% of sales, and that Buffet (35% of sales) out-earned every other order type despite equal order counts.
+Only 69.8% of deliveries were on time (30 minutes or less). Heavy-traffic jams added about 46% to delivery time (31 vs 21 min), festival days averaged 45 min, and batching 3 orders averaged 48 min, while vehicle type made no difference. Recommended limiting order batching during jams and festivals.
